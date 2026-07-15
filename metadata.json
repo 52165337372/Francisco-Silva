@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Aeromilion - Robô de Sinais IA",
+  "description": "Otimize suas operações com sinais em tempo real, monitoramento de lucros e automação inteligente para diversas plataformas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
